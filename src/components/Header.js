@@ -4,17 +4,15 @@ import React from 'react'
 const Header = props => (
   <header id="header" style={props.timeout ? { display: 'none' } : {}}>
     <div className="logo">
-      <span className="icon fa-diamond"></span>
+      <span className="icon fa-tree"></span>
     </div>
     <div className="content">
       <div className="inner">
-        <h1>Dimension</h1>
+        <h1>StrengthGoal</h1>
         <p>
-          A fully responsive site template designed by{' '}
-          <a href="https://html5up.net">HTML5 UP</a> and released
+          A way to discover why exercise is for you,
           <br />
-          for free under the{' '}
-          <a href="https://html5up.net/license">Creative Commons</a> license.
+          how to get in shape and stay fit for years to come.
         </p>
       </div>
     </div>
@@ -26,25 +24,25 @@ const Header = props => (
               props.onOpenArticle('intro')
             }}
           >
-            Intro
+            Intro 
           </button>
         </li>
         <li>
           <button
             onClick={() => {
-              props.onOpenArticle('work')
+              props.onOpenArticle('long-term')
             }}
           >
-            Work
+            Long- term 
           </button>
         </li>
         <li>
           <button
             onClick={() => {
-              props.onOpenArticle('about')
+              props.onOpenArticle('resistance')
             }}
           >
-            About
+            Resistance
           </button>
         </li>
         <li>
