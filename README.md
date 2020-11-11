@@ -1,3 +1,7 @@
+# Strength Goal
+
+## A website to discover why exercise is for you, how to get in shape and stay fit for years to come.
+
 # gatsby-starter-dimension
 
 **This is a starter for Gatsby.js V2.**
