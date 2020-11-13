@@ -37,7 +37,8 @@ class Main extends React.Component {
             Of course we are supposed to exercise. Everyone knows that it’s 
             one of those things that our bodies need to be healthy and strong. 
             Unlike getting food, water, and sleep, however, vigorous physical 
-            activity is something that we can easily forget about for days.
+            activity is something that we can easily forget about for days, weeks, 
+            maybe even months.
           </p>
           <p>
             Why don’t we exercise throughout the year? Perhaps we are not being 
